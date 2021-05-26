@@ -1,7 +1,6 @@
 <div align="left">
 
 #
-
 ### Sobre
 
 🎓 Em formação no curso de Análise e Desenvolvimento de Sistemas na UMJ. </br>
