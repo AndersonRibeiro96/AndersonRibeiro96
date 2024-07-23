@@ -3,8 +3,9 @@
 #
 ### Sobre
 
-🎓 Em formação no curso de Análise e Desenvolvimento de Sistemas na UMJ. </br>
-📚 Estudando Arquitetura de microsserviços, CI/CD. </br>
+🎓 Em formação no curso de Engenharia de Software na Puc Minas. </br>
+🎓 Formação no curso de Análise e Desenvolvimento de Sistemas na UMJ. </br>
+📚 Estudando Padrões de Projeto e Suas Aplicações. </br>
 
 #
 
